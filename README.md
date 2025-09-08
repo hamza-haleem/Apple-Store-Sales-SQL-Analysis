@@ -2,7 +2,7 @@
 ## Introduction
 This project analyzes Apple retail sales and warranty claims using PostgreSQL. The goal is to uncover insights about store performance, country contributions, product claims, and sales growth over time. By combining SQL queries with business-focused questions, I transformed raw data into actionable insights.
 
-[View the SQL Queries](applestore.sql)
+[View the SQL Queries](apple_sale_analysis.sql)
 ## Background
 Apple operates retail stores worldwide, and analyzing sales and warranty claims provides valuable information on product performance, customer behavior, and market contributions. This project simulates such an environment with a dataset of sales, stores, products, and warranty claims.
 
