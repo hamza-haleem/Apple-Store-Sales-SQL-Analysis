@@ -223,6 +223,10 @@ ORDER BY store_id, extracted_year;
 -  Biggest losses in 2024: ST-14 (-21.83%), ST-58 (-21.07%), ST-9 (-18.62%), ST-30 (-17.42%).
 -  Stores with strong resilience (slower decline in 2024) include ST-40 (-7.40%) and ST-70 (-9.60%).
 -  Overall trend: short-term gains (2021–2022) followed by sharp contraction in 2024.
+
+![Year over Year Growth Ratio](yoy_growth_ratio.jpg)
+
+* *
 ## What I Learned
 - 🛠️ **SQL Skills**  
   - Writing complex queries using **JOINs**, **subqueries**, and **window functions**  
