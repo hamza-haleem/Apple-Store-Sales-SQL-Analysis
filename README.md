@@ -226,7 +226,7 @@ ORDER BY store_id, extracted_year;
 
 ![Year over Year Growth Ratio](yoy_growth_ratio.jpg)
 
-* *
+*The graph highlights YoY growth patterns for a sample of 5 stores over 4 years, showcasing revenue fluctuations and performance trends. While only a subset is visualized for clarity, the analysis covers all 75 stores to provide a comprehensive business overview*
 ## What I Learned
 - 🛠️ **SQL Skills**  
   - Writing complex queries using **JOINs**, **subqueries**, and **window functions**  
